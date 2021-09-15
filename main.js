@@ -1,0 +1,12 @@
+var first_name= "Hritik";
+var last_name= "Roshan";
+var a = first_name.concat(last_name);
+console.log(a);
+var d = 12000000;
+var e = 130000000;
+var add = d + e ;
+console.log(add);
+var sub = e - d ;
+console.log(sub);
+var multiply = e * d ;
+console.log(multiply);
